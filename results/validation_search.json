@@ -1,0 +1,74 @@
+[
+  {
+    "parameters": {
+      "window": 25,
+      "k": 0.2,
+      "background_window": 81,
+      "min_area": 2
+    },
+    "validation_f1": 0.8740162638386939
+  },
+  {
+    "parameters": {
+      "window": 25,
+      "k": 0.3,
+      "background_window": 81,
+      "min_area": 2
+    },
+    "validation_f1": 0.9103014905088098
+  },
+  {
+    "parameters": {
+      "window": 25,
+      "k": 0.4,
+      "background_window": 81,
+      "min_area": 2
+    },
+    "validation_f1": 0.7820370151075864
+  },
+  {
+    "parameters": {
+      "window": 25,
+      "k": 0.5,
+      "background_window": 81,
+      "min_area": 2
+    },
+    "validation_f1": 0.5954310370014296
+  },
+  {
+    "parameters": {
+      "window": 41,
+      "k": 0.2,
+      "background_window": 81,
+      "min_area": 2
+    },
+    "validation_f1": 0.8580686816849393
+  },
+  {
+    "parameters": {
+      "window": 41,
+      "k": 0.3,
+      "background_window": 81,
+      "min_area": 2
+    },
+    "validation_f1": 0.9158624434424589
+  },
+  {
+    "parameters": {
+      "window": 41,
+      "k": 0.4,
+      "background_window": 81,
+      "min_area": 2
+    },
+    "validation_f1": 0.7987886198500089
+  },
+  {
+    "parameters": {
+      "window": 41,
+      "k": 0.5,
+      "background_window": 81,
+      "min_area": 2
+    },
+    "validation_f1": 0.591324821548315
+  }
+]

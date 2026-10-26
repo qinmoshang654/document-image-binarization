@@ -1,0 +1,15 @@
+{
+  "python": "3.12.14",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "processor": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+  "versions": {
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "scikit-image": "0.25.2",
+    "Pillow": "13.0.0"
+  },
+  "source_sha256": "c4ce0e6c7152f4be0b9009d6cc18a648670b552a37d0dd6df876049575db1946",
+  "test_images": 48,
+  "validation_images": 16,
+  "timing": "one sequential pass per image; excludes disk IO and metric evaluation; no warmup"
+}

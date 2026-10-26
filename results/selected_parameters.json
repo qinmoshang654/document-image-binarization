@@ -1,0 +1,9 @@
+{
+  "parameters": {
+    "window": 41,
+    "k": 0.3,
+    "background_window": 81,
+    "min_area": 2
+  },
+  "validation_f1": 0.9158624434424589
+}
