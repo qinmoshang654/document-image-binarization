@@ -1,0 +1,29 @@
+{
+  "font": "simsun.ttc",
+  "font_sha256": "1526ac24375f51f6eb73bc2d3f8072dbe4a80a3a65217677c9d9a84f67dab2ab",
+  "size": [
+    800,
+    560
+  ],
+  "gt_rule": "clean < 128",
+  "validation_layouts": [
+    100,
+    101,
+    102,
+    103
+  ],
+  "test_layouts": [
+    300,
+    301,
+    302,
+    303,
+    304,
+    305,
+    306,
+    307,
+    308,
+    309,
+    310,
+    311
+  ]
+}
